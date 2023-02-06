@@ -37,7 +37,7 @@ puts '5 skills created'
     subtitle: 'My great service',
     body: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor',
     main_image: 'https://picsum.photos/400/400',
-    thumb_image: 'https://picsum.photos/300/300'
+    thumb_image: 'https://picsum.photos/350/200'
   )
 end
 
